@@ -1,0 +1,15 @@
+section{
+  color: #626262;
+}
+h2
+{
+  color: #4a4a4a;
+}
+.carousel-item
+{
+  height: 19rem !important;
+}
+img
+{
+  height: 100% !important;
+}
